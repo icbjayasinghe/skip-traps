@@ -9,13 +9,13 @@ import { getFirestore } from 'firebase/firestore'; // Import Firestore
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD_5TDcCPH21it2QExNG16enUEHDZqJ-1k",
-  authDomain: "skip-traps.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "skip-traps",
-  storageBucket: "skip-traps.firebasestorage.app",
-  messagingSenderId: "26792026776",
-  appId: "1:26792026776:web:6acb1b6b9e0aeadaab66ed",
-  measurementId: "G-4FP72NS3K3"
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
