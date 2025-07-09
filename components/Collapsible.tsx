@@ -37,9 +37,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 6,
+    paddingVertical: 10,
+    marginLeft: 10,
   },
   content: {
-    marginTop: 6,
+    // marginTop: 3,
     marginLeft: 24,
+    marginBottom: 10,
+    
   },
 });
